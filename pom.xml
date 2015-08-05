@@ -49,9 +49,9 @@
       <scope>provided</scope>
     </dependency>
     <dependency>
-        <groupId>com.infradna.tool</groupId>
-        <artifactId>bridge-method-injector</artifactId>
-        <version>1.14</version>
+      <groupId>com.infradna.tool</groupId>
+      <artifactId>bridge-method-annotation</artifactId>
+      <version>1.14</version>
     </dependency>
   </dependencies>
 
@@ -92,13 +92,6 @@
         <groupId>com.infradna.tool</groupId>
         <artifactId>bridge-method-injector</artifactId>
         <version>1.14</version>
-        <executions>
-          <execution>
-            <goals>
-              <goal>process</goal>
-            </goals>
-          </execution>
-        </executions>
       </plugin>
     </plugins>
   </build>
