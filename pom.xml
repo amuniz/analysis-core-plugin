@@ -50,7 +50,7 @@
     </dependency>
     <dependency>
         <groupId>com.infradna.tool</groupId>
-        <artifactId>bridge-method-injector</artifactId>
+        <artifactId>bridge-method-annotation</artifactId>
         <version>1.14</version>
     </dependency>
   </dependencies>
